@@ -9,8 +9,8 @@
 |  Saimon Otieno    |     COM/3505/26  |  lussier1678    |
 
 ## Who drove each part
-- Part 0, 2, 4:Bilha Achieng
-- Part 1, 3:Saimon Otieno 
+- Part 0, 2, 4:Saimon Otieno
+- Part 1, 3:Halima Abdullahi
 
 ## Personalisation
 - Our colours:We chose blue as our primary colour. Light blue is used in the dark theme, while darker blue shades are used in the light theme.
